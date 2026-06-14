@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest-tmp/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# External benchmark data (download per data/hpge-soil-gamma-41/README.md)
+data/hpge-soil-gamma-41/*.npz
+data/hpge-soil-gamma-41/data/Activity.csv
+data/hpge-soil-gamma-41/data/Spectra.csv

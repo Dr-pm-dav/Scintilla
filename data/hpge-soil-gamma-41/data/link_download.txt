@@ -1,0 +1,14 @@
+HPGe Soil Gamma Benchmark - download links
+Third-party dataset, CC BY 4.0.
+Cite: https://github.com/haipn91/hpge-soil-gamma-41  (DOI 10.21203/rs.3.rs-6532814/v1)
+
+Place the files as follows, relative to the repository root:
+
+data/hpge-soil-gamma-41/hpge-soil-gamma-41.npz
+  https://drive.google.com/file/d/16Bxfsa7TMqq65eRUCAdNwGt-UYQaiB1c/view?usp=sharing
+
+data/hpge-soil-gamma-41/data/Activity.csv
+  From the upstream repository: https://github.com/haipn91/hpge-soil-gamma-41
+
+Spectra.csv (optional; full 6000x8192 spectra, not required by Scintilla)
+  https://drive.google.com/file/d/1pwHIeBFBW0vxcsvZKDMRbV3zPk6LtDF1/view?usp=sharing
